@@ -30,7 +30,6 @@ The main objective of this project is to build a **text-to-text generation appli
 5. **Implement Retrieval-Augmented Generation (RAG)**  
    Improve the quality of responses on specific topics by leveraging **Retrieval-Augmented Generation (RAG)** using documents, websites, or knowledge corpora of your choice.
 
----
 
 ## Key Features
 
@@ -49,7 +48,6 @@ The main objective of this project is to build a **text-to-text generation appli
 - **Save Chat History**:  
   Saved and analyzed the chat history for insights on how the model responds to different inputs.
 
----
 
 ## Skills & Technologies
 
@@ -59,7 +57,6 @@ The main objective of this project is to build a **text-to-text generation appli
 - **LangChain**
 - **Python**
 
----
 
 This project serves as a great foundation for building **LLM** (Large Language Model) applications, and it can be extended for more complex use cases such as **text generation**, **summarization**, and **image generation** tasks. 
 
